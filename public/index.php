@@ -12,6 +12,6 @@ use Application\Hello;
 </head>
 <body>
     <h1>PHP & Mysql</h1>
-    <p><?= Hello::message() ?></p>
+    <p>Olá Mundo</p>
 </body>
 </html>
