@@ -5,5 +5,6 @@
     }
 
     echo "Nome: $nome";
+    echo "</br>";
     echo "Email: $email";
 ?>
